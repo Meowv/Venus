@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+    <siteMapNode url="Default.aspx" title="首页"  description="启明星">
+        <siteMapNode url="about_us.aspx" title="关于我"  description="关于我" />
+        <siteMapNode url="saylist.aspx" title="每日一言"  description="每日一言" />
+        <siteMapNode url="saylist.aspx" title="技术教程"  description="技术教程" />
+        <siteMapNode url="saylist.aspx" title="IT动态"  description="IT动态" />
+        <siteMapNode url="saylist.aspx" title="留言板"  description="留言板" />
+    </siteMapNode>
+</siteMap>
